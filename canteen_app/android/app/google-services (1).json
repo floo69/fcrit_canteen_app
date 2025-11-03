@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1033882721805",
+    "firebase_url": "https://quickbite-fcrit-927fc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "quickbite-fcrit-927fc",
+    "storage_bucket": "quickbite-fcrit-927fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033882721805:android:e85c24dcf74d822165bf44",
+        "android_client_info": {
+          "package_name": "com.example.canteen_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvzS-440fsvpN_xG4BNZ2a3tZeX2s1_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033882721805:android:a7108a5b3503b97065bf44",
+        "android_client_info": {
+          "package_name": "com.fcrit.quickbite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZvzS-440fsvpN_xG4BNZ2a3tZeX2s1_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
